@@ -1,17 +1,19 @@
 {
-  "version": "0.1.130",
-  "versionCode": 148,
-  "source_commit": "f4afba0997e054e7f126a35119d45f99f3192ca8",
+  "version": "0.1.131",
+  "versionCode": 149,
+  "source_commit": "6dac5beda084515af09754e58a233cf37398f567",
   "certificate_sha256": "ee7ac6dcdb06a55003fd21b500780749bc589c3f10ed6b1e2cba586ae4f178a7",
-  "sha256": "b9454e2b42f0e4acd6124ae8dd34fe1d65be1ce81e7037a91b2889e077630d78",
-  "size": 4153125,
+  "sha256": "f095f8c981fee7323f9425d0294bee28de3fb249617e97dbb5702b2c0a7bd15d",
+  "size": 4155777,
   "checks": [
-    "117 Node checks",
-    "OzonLinks JUnit check",
-    "Windows and Android browser smoke checks",
-    "assembleRelease and lintVitalRelease",
-    "APK signature, version, assets and ZIP integrity"
+    "119 Node checks",
+    "2 JVM HTTP tests",
+    "live authorized HTTPS:14 pickup cards",
+    "unauthorized requests rejected",
+    "SQL search parity and disjoint cursor pages",
+    "assembleRelease/lintVitalRelease",
+    "signature/version/current assets/DEX/ZIP"
   ],
   "public_download_verified": false,
-  "download_url": "https://raw.githubusercontent.com/gross0509/web-sales-updates/refs/heads/download/android-0.1.130/Web-Sales-Android-0.1.130.apk"
+  "download_url": "https://raw.githubusercontent.com/gross0509/web-sales-updates/refs/heads/download/android-0.1.131/Web-Sales-Android-0.1.131.apk"
 }

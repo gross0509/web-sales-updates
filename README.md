@@ -1,7 +1,5 @@
-# Web Sales Android 0.1.130
+# Android 0.1.131 — HTTPS returns trial
 
-Normal release, versionCode 148, same release certificate.
+Normal Web Sales, versionCode149, existing release certificate. Return cards load over an authenticated HTTPS endpoint. One small PostgreSQL token bootstrap remains on first use. Windows is unchanged. Phone verification pending.
 
-Changes: removal titles open Ozon Seller in the external browser; Android orders counter moves up 2 CSS px.
-
-Source: f4afba0997e054e7f126a35119d45f99f3192ca8
+Source: 6dac5beda084515af09754e58a233cf37398f567
