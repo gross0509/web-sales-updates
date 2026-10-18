@@ -1,5 +1,5 @@
-# Android 0.1.131 — HTTPS returns trial
+# Web Sales android 0.1.132
 
-Normal Web Sales, versionCode149, existing release certificate. Return cards load over an authenticated HTTPS endpoint. One small PostgreSQL token bootstrap remains on first use. Windows is unchanged. Phone verification pending.
+Full return/removal modal, all selected-box information, white delivery-handover label, independent copy/photo/Ozon actions. No list/search/pagination changes. Android uses authenticated HTTPS and retains its existing release key. Physical-device verification pending.
 
-Source: 6dac5beda084515af09754e58a233cf37398f567
+Source: c70463b62dd75fee29dafa330417624dd10a39c9

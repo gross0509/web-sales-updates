@@ -1,19 +1,18 @@
 {
-  "version": "0.1.131",
-  "versionCode": 149,
-  "source_commit": "6dac5beda084515af09754e58a233cf37398f567",
-  "certificate_sha256": "ee7ac6dcdb06a55003fd21b500780749bc589c3f10ed6b1e2cba586ae4f178a7",
-  "sha256": "f095f8c981fee7323f9425d0294bee28de3fb249617e97dbb5702b2c0a7bd15d",
-  "size": 4155777,
-  "checks": [
-    "119 Node checks",
-    "2 JVM HTTP tests",
-    "live authorized HTTPS:14 pickup cards",
-    "unauthorized requests rejected",
-    "SQL search parity and disjoint cursor pages",
-    "assembleRelease/lintVitalRelease",
-    "signature/version/current assets/DEX/ZIP"
-  ],
+  "version": "0.1.132",
+  "source_commit": "c70463b62dd75fee29dafa330417624dd10a39c9",
+  "sha256": "769954c16da4210955b4fff22c32d4cf2b319d902f2e4ec6b70b30556beb8a4d",
+  "size": 4158961,
+  "download_url": "https://raw.githubusercontent.com/gross0509/web-sales-updates/refs/heads/download/android-0.1.132/Web-Sales-Android-0.1.132.apk",
   "public_download_verified": false,
-  "download_url": "https://raw.githubusercontent.com/gross0509/web-sales-updates/refs/heads/download/android-0.1.131/Web-Sales-Android-0.1.131.apk"
+  "checks": [
+    "121 Node checks",
+    "Both-host browser smoke checks",
+    "Modal UI checks:393px and1280px",
+    "Live selected-box SQL and HTTPS detail checks",
+    "Packaged assets and archive integrity",
+    "APK signature and package version"
+  ],
+  "versionCode": 150,
+  "certificate_sha256": "ee7ac6dcdb06a55003fd21b500780749bc589c3f10ed6b1e2cba586ae4f178a7"
 }
