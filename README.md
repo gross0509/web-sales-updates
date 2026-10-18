@@ -1,5 +1,5 @@
-# Web Sales Windows 0.1.75
+# Web Sales windows 0.1.76
 
-Portable x64. Removal titles open the Ozon Seller delivery-point route in the external browser.
+Full return/removal modal, all selected-box information, white delivery-handover label, independent copy/photo/Ozon actions. No list/search/pagination changes. Android uses authenticated HTTPS and retains its existing release key. Physical-device verification pending.
 
-Source: f4afba0997e054e7f126a35119d45f99f3192ca8
+Source: c70463b62dd75fee29dafa330417624dd10a39c9
