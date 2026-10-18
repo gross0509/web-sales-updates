@@ -1,0 +1,17 @@
+{
+  "version": "0.1.130",
+  "versionCode": 148,
+  "source_commit": "f4afba0997e054e7f126a35119d45f99f3192ca8",
+  "certificate_sha256": "ee7ac6dcdb06a55003fd21b500780749bc589c3f10ed6b1e2cba586ae4f178a7",
+  "sha256": "b9454e2b42f0e4acd6124ae8dd34fe1d65be1ce81e7037a91b2889e077630d78",
+  "size": 4153125,
+  "checks": [
+    "117 Node checks",
+    "OzonLinks JUnit check",
+    "Windows and Android browser smoke checks",
+    "assembleRelease and lintVitalRelease",
+    "APK signature, version, assets and ZIP integrity"
+  ],
+  "public_download_verified": false,
+  "download_url": "https://raw.githubusercontent.com/gross0509/web-sales-updates/refs/heads/download/android-0.1.130/Web-Sales-Android-0.1.130.apk"
+}
