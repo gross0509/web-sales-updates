@@ -1,7 +1,7 @@
-# Web Sales Android 0.1.137
+# Web Sales Android 0.1.138
 
-Return identifier rows compacted to 54px; short toasts 5 seconds and long toasts 10 seconds. Original package and signing certificate.
+Stock cards: article in header, product photo/name in body, FBO/FBS/rFBS in footer. Private paged loading from existing database stocks. Original package/signing key.
 
-[Download APK](https://raw.githubusercontent.com/gross0509/web-sales-updates/refs/heads/download/android-0.1.137/Web-Sales-Android-0.1.137.apk)
+[Download APK](https://raw.githubusercontent.com/gross0509/web-sales-updates/refs/heads/download/android-0.1.138/Web-Sales-Android-0.1.138.apk)
 
-Source 62ae30ad4c18491cf6c303f04253331fd3041efd. User device confirmation pending.
+Source 1651c274f7fe802d329dcdbc2a8bdb43f05eb1c1. Device confirmation pending.
