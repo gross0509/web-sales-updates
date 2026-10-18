@@ -1,7 +1,7 @@
-# Web Sales Windows 0.1.77
+# Web Sales Windows 0.1.78
 
-Portable x64. Compact article/SKU/1C rows in lists and modal, with centrally updated situational notifications and offline dictionary.
+Portable x64: all ten accumulated fixes, including one-line identifiers, white/bold delivery label, readable shared notifications, shared copying, return photo registration, catalog cache/retry and retired loaders.
 
-[Download EXE](https://raw.githubusercontent.com/gross0509/web-sales-updates/refs/heads/download/windows-0.1.77/Web-Sales-0.1.77-x64-portable.exe)
+[Download EXE](https://raw.githubusercontent.com/gross0509/web-sales-updates/refs/heads/download/windows-0.1.78/Web-Sales-0.1.78-x64-portable.exe)
 
-Source e79f395039b17c441f3a410676b415db2d9d85b1.
+Source f190aa6af3246055e4599a16ff26c39aaac6d7f4. User device confirmation pending.
