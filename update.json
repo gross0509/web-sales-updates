@@ -1,14 +1,15 @@
 {
-  "version": "0.1.78",
-  "source_commit": "f190aa6af3246055e4599a16ff26c39aaac6d7f4",
-  "sha256": "63ed30d43958ae31be1045da465f72dca6e9a0b4aead44c408879a7da8c878cd",
-  "size": 93187731,
+  "version": "0.1.79",
+  "source_commit": "62ae30ad4c18491cf6c303f04253331fd3041efd",
+  "sha256": "22e0f7a230e883815dc069790e7a1920c9c3a1a23764d52145f29589571f3b5d",
+  "size": 93191812,
   "checks": [
     "123 Node checks",
-    "Both-platform UI smoke and modal checks",
-    "Review UI regression plus strict CSP: font fit/grow, copy/fallback/failure, toast text/icons",
-    "ASAR changed files/version; portable PE header and 7zip integrity"
+    "Both-platform UI smoke",
+    "Return list/modal54px at393/1280px",
+    "Long 1C fitting, copying,5s/10s toast lifetime and replacement timer",
+    "ASAR version and UI asset matches",
+    "Portable PE header and7zip integrity"
   ],
-  "public_download_verified": false,
-  "download_url": "https://raw.githubusercontent.com/gross0509/web-sales-updates/refs/heads/download/windows-0.1.78/Web-Sales-0.1.78-x64-portable.exe"
+  "download_url": "https://raw.githubusercontent.com/gross0509/web-sales-updates/refs/heads/download/windows-0.1.79/Web-Sales-0.1.79-x64-portable.exe"
 }
