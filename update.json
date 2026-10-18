@@ -1,18 +1,18 @@
 {
-  "version": "0.1.132",
-  "source_commit": "c70463b62dd75fee29dafa330417624dd10a39c9",
-  "sha256": "769954c16da4210955b4fff22c32d4cf2b319d902f2e4ec6b70b30556beb8a4d",
-  "size": 4158961,
-  "download_url": "https://raw.githubusercontent.com/gross0509/web-sales-updates/refs/heads/download/android-0.1.132/Web-Sales-Android-0.1.132.apk",
-  "public_download_verified": false,
+  "version": "0.1.133",
+  "versionCode": 151,
+  "source_commit": "b81ad62e89194d77d331c319a9af7b32e46070fc",
+  "certificate_sha256": "ee7ac6dcdb06a55003fd21b500780749bc589c3f10ed6b1e2cba586ae4f178a7",
+  "sha256": "f627c0db41a845da9e68159c75c964e5d3b73dda7c737b7521bbb16c6f9b92cf",
+  "size": 4159309,
   "checks": [
     "121 Node checks",
+    "3 JVM HTTP tests: old-fails/new-passes early EOF",
+    "Modal 393px/1280px checks:1C and22px rows",
     "Both-host browser smoke checks",
-    "Modal UI checks:393px and1280px",
-    "Live selected-box SQL and HTTPS detail checks",
-    "Packaged assets and archive integrity",
-    "APK signature and package version"
+    "Live selected-box HTTPS200 with1c_id",
+    "APK signature/version/current assets/ZIP"
   ],
-  "versionCode": 150,
-  "certificate_sha256": "ee7ac6dcdb06a55003fd21b500780749bc589c3f10ed6b1e2cba586ae4f178a7"
+  "public_download_verified": false,
+  "download_url": "https://raw.githubusercontent.com/gross0509/web-sales-updates/refs/heads/download/android-0.1.133/Web-Sales-Android-0.1.133.apk"
 }

@@ -1,5 +1,5 @@
-# Web Sales android 0.1.132
+# Android 0.1.133
 
-Full return/removal modal, all selected-box information, white delivery-handover label, independent copy/photo/Ozon actions. No list/search/pagination changes. Android uses authenticated HTTPS and retains its existing release key. Physical-device verification pending.
+Normal Web Sales, code151, same release key. Buffered read-only HTTPS POST fixes a reproduced early-EOF recovery failure; phone verification pending. Compact modal identifiers and a copied1C row from the product registry. No longer timeouts or application retry loops.
 
-Source: c70463b62dd75fee29dafa330417624dd10a39c9
+Source: b81ad62e89194d77d331c319a9af7b32e46070fc
