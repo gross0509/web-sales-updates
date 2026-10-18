@@ -1,5 +1,7 @@
-# Web Sales windows 0.1.76
+# Web Sales Windows 0.1.77
 
-Full return/removal modal, all selected-box information, white delivery-handover label, independent copy/photo/Ozon actions. No list/search/pagination changes. Android uses authenticated HTTPS and retains its existing release key. Physical-device verification pending.
+Portable x64. Compact article/SKU/1C rows in lists and modal, with centrally updated situational notifications and offline dictionary.
 
-Source: c70463b62dd75fee29dafa330417624dd10a39c9
+[Download EXE](https://raw.githubusercontent.com/gross0509/web-sales-updates/refs/heads/download/windows-0.1.77/Web-Sales-0.1.77-x64-portable.exe)
+
+Source e79f395039b17c441f3a410676b415db2d9d85b1.
