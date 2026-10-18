@@ -1,0 +1,14 @@
+{
+  "version": "0.1.75",
+  "source_commit": "f4afba0997e054e7f126a35119d45f99f3192ca8",
+  "sha256": "e52664345dca5d8c7cadb6b1ea60e031925d02918ae2ffa7b4dda9ac795866b0",
+  "size": 93184931,
+  "checks": [
+    "117 Node checks",
+    "Windows and Android browser smoke checks",
+    "Packaged version and current assets",
+    "Portable archive integrity"
+  ],
+  "public_download_verified": false,
+  "download_url": "https://raw.githubusercontent.com/gross0509/web-sales-updates/refs/heads/download/windows-0.1.75/Web-Sales-0.1.75-x64-portable.exe"
+}
