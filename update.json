@@ -1,18 +1,15 @@
 {
-  "version": "0.1.136",
-  "versionCode": 154,
-  "source_commit": "f190aa6af3246055e4599a16ff26c39aaac6d7f4",
+  "version": "0.1.137",
+  "versionCode": 155,
+  "source_commit": "62ae30ad4c18491cf6c303f04253331fd3041efd",
   "certificate_sha256": "ee7ac6dcdb06a55003fd21b500780749bc589c3f10ed6b1e2cba586ae4f178a7",
-  "sha256": "ce806f19e8447daf7a1836b81cf8956de833d312f704c130f1a024cba5da8cec",
-  "size": 4158221,
+  "sha256": "8a999a8431f96950eb73859bbdb33c3fcacbae1db77e00a40bd8ceb7779d0b42",
+  "size": 4158225,
   "checks": [
     "123 Node checks",
-    "Both-platform UI smoke and modal checks at393px/1280px",
-    "Review regression UI: long 1C shrink/grow, literal copy/fallback/failure, toast white text/icons",
-    "3 JVM HTTP tests and current HTTP probe",
-    "Release APK and Android instrumentation sources compiled",
-    "APK signature/version/ZIP/assets and absent removed query class"
+    "Return list/modal 54px block at393/1280px",
+    "Long 1C font fitting, copying and 5s/10s toast/replacement checks",
+    "Release APK signature/version/ZIP/shared assets"
   ],
-  "public_download_verified": false,
-  "download_url": "https://raw.githubusercontent.com/gross0509/web-sales-updates/refs/heads/download/android-0.1.136/Web-Sales-Android-0.1.136.apk"
+  "download_url": "https://raw.githubusercontent.com/gross0509/web-sales-updates/refs/heads/download/android-0.1.137/Web-Sales-Android-0.1.137.apk"
 }
