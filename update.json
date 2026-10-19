@@ -1,0 +1,13 @@
+{
+  "version": "0.1.81",
+  "source_commit": "4435421abeae75f508417a75e4e5340acb2455c4",
+  "sha256": "b7a68962e9605ad992e801c5721cd45cac328f6dfc920407ac8626f5ffbab06f",
+  "size": 93194638,
+  "download_url": "https://raw.githubusercontent.com/gross0509/web-sales-updates/refs/heads/download/windows-0.1.81/Web-Sales-0.1.81-x64-portable.exe",
+  "checks": [
+    "124 Node tests",
+    "Both-platform UI smoke and focused product links",
+    "Stock filters and return details regression",
+    "Packaged asset integrity"
+  ]
+}
