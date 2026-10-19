@@ -1,0 +1,16 @@
+{
+  "version": "0.1.142",
+  "source_commit": "3e456e77a244087b4a1e37b48437e98b470154c0",
+  "sha256": "fa36a42bfa84a9c2ba52eb0bd6f45ae1f24300e6de224e70203112c324d9b0b1",
+  "size": 4166560,
+  "download_url": "https://raw.githubusercontent.com/gross0509/web-sales-updates/refs/heads/download/android-0.1.142/Web-Sales-Android-0.1.142.apk",
+  "checks": [
+    "127 Node tests",
+    "9 JVM Java response tests",
+    "Both-platform status tab regression including429",
+    "Full UI smoke",
+    "Packaged asset and archive integrity"
+  ],
+  "versionCode": 160,
+  "certificate_sha256": "ee7ac6dcdb06a55003fd21b500780749bc589c3f10ed6b1e2cba586ae4f178a7"
+}
