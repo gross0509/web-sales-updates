@@ -1,0 +1,16 @@
+{
+  "version": "0.1.143",
+  "source_commit": "8dd407ebb8ec5213cb116b5b6fefbadbc460e1ab",
+  "sha256": "bdc24897cfb8eaae77b9405f7bfdb3a119b9957e46a3f9046e7da8e0115c6fd4",
+  "size": 5824069,
+  "download_url": "https://raw.githubusercontent.com/gross0509/web-sales-updates/refs/heads/download/android-0.1.143/Web-Sales-Android-0.1.143.apk",
+  "checks": [
+    "128 Node tests",
+    "10 JVM native response tests",
+    "Windows and Android toast UI: 4 variants, facts, sprite, timers and close",
+    "Full Windows and Android UI smoke",
+    "Packaged assets and archive integrity"
+  ],
+  "versionCode": 161,
+  "certificate_sha256": "ee7ac6dcdb06a55003fd21b500780749bc589c3f10ed6b1e2cba586ae4f178a7"
+}
