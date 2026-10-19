@@ -1,0 +1,14 @@
+{
+  "version": "0.1.83",
+  "source_commit": "8dd407ebb8ec5213cb116b5b6fefbadbc460e1ab",
+  "sha256": "3e0aff274b2302cdbfd60a0e4885cedfd9104d785c0412b0a141c7f10b25b55f",
+  "size": 94717391,
+  "download_url": "https://raw.githubusercontent.com/gross0509/web-sales-updates/refs/heads/download/windows-0.1.83/Web-Sales-0.1.83-x64-portable.exe",
+  "checks": [
+    "128 Node tests",
+    "10 JVM native response tests",
+    "Windows and Android toast UI: 4 variants, facts, sprite, timers and close",
+    "Full Windows and Android UI smoke",
+    "Packaged assets and archive integrity"
+  ]
+}
