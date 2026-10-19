@@ -1,0 +1,15 @@
+{
+  "version": "0.1.141",
+  "source_commit": "4435421abeae75f508417a75e4e5340acb2455c4",
+  "sha256": "69cec2254de03d52d9960ac125c549f1663d65cd7e3bcb23d7af55bab9ca0027",
+  "size": 4164576,
+  "download_url": "https://raw.githubusercontent.com/gross0509/web-sales-updates/refs/heads/download/android-0.1.141/Web-Sales-Android-0.1.141.apk",
+  "checks": [
+    "124 Node tests",
+    "Both-platform UI smoke and focused product links",
+    "Stock filters and return details regression",
+    "Packaged asset integrity"
+  ],
+  "versionCode": 159,
+  "certificate_sha256": "ee7ac6dcdb06a55003fd21b500780749bc589c3f10ed6b1e2cba586ae4f178a7"
+}
