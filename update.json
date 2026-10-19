@@ -1,0 +1,14 @@
+{
+  "version": "0.1.82",
+  "source_commit": "3e456e77a244087b4a1e37b48437e98b470154c0",
+  "sha256": "3412ec289a5849be4527ca4bf01bea2ab46820c8e6a5651213ec99cb66f744db",
+  "size": 93194947,
+  "download_url": "https://raw.githubusercontent.com/gross0509/web-sales-updates/refs/heads/download/windows-0.1.82/Web-Sales-0.1.82-x64-portable.exe",
+  "checks": [
+    "127 Node tests",
+    "9 JVM Java response tests",
+    "Both-platform status tab regression including429",
+    "Full UI smoke",
+    "Packaged asset and archive integrity"
+  ]
+}
