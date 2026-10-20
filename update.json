@@ -1,0 +1,16 @@
+{
+  "version": "0.1.144",
+  "source_commit": "98b9bd9852d859674b70ed1817f1aa762e75ef43",
+  "sha256": "402a65b138ce5256278ea05df3c4f2165b3bf10c4b1ee25be86fca7f36c64f3d",
+  "size": 5824589,
+  "download_url": "https://raw.githubusercontent.com/gross0509/web-sales-updates/refs/heads/download/android-0.1.144/Web-Sales-Android-0.1.144.apk",
+  "checks": [
+    "130 Node tests",
+    "2 JVM cancellation JDBC tests",
+    "Both-platform offer link and cancellation time-chip UI",
+    "Full Windows and Android UI smoke",
+    "Packaged assets and archive integrity"
+  ],
+  "versionCode": 162,
+  "certificate_sha256": "ee7ac6dcdb06a55003fd21b500780749bc589c3f10ed6b1e2cba586ae4f178a7"
+}
