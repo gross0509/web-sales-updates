@@ -1,0 +1,14 @@
+{
+  "version": "0.1.85",
+  "source_commit": "963488a0c92cb6e5cab431815559bd3b10202210",
+  "sha256": "b2e0567a2f2f75349a66e7b070f3556da86ad165c6de40ff563717451aed8b04",
+  "size": 94718126,
+  "download_url": "https://raw.githubusercontent.com/gross0509/web-sales-updates/refs/heads/download/windows-0.1.85/Web-Sales-0.1.85-x64-portable.exe",
+  "checks": [
+    "138 Node tests",
+    "Live19,201-row 1C source and scheduled cached replay",
+    "Both-platform compact cancellation header at360/393px",
+    "Full Windows and Android UI smoke",
+    "Packaged assets and archive integrity"
+  ]
+}
