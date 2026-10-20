@@ -1,0 +1,16 @@
+{
+  "version": "0.1.145",
+  "source_commit": "963488a0c92cb6e5cab431815559bd3b10202210",
+  "sha256": "7a9922a15981e6de9990225ca2fe32d569af2063890a67c65a2903fb8ffd37b5",
+  "size": 5824601,
+  "download_url": "https://raw.githubusercontent.com/gross0509/web-sales-updates/refs/heads/download/android-0.1.145/Web-Sales-Android-0.1.145.apk",
+  "checks": [
+    "138 Node tests",
+    "Live19,201-row 1C source and scheduled cached replay",
+    "Both-platform compact cancellation header at360/393px",
+    "Full Windows and Android UI smoke",
+    "Packaged assets and archive integrity"
+  ],
+  "versionCode": 163,
+  "certificate_sha256": "ee7ac6dcdb06a55003fd21b500780749bc589c3f10ed6b1e2cba586ae4f178a7"
+}
