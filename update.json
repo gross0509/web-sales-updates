@@ -1,0 +1,16 @@
+{
+  "version": "0.1.152",
+  "source_commit": "3cb300bf03ebc8514136c70aab898c209281c2aa",
+  "sha256": "4e6ac8130d5c4725e5a755f3c161facde28e6d2050c0f42f62b759058015bb4a",
+  "size": 5832617,
+  "download_url": "https://raw.githubusercontent.com/gross0509/web-sales-updates/refs/heads/download/android-0.1.152/Web-Sales-Android-0.1.152.apk",
+  "checks": [
+    "145 Node tests, price-write failure simulations and connection retry checks",
+    "Bounded 10-item sequential queue, partial batches, stop on uncertain result, read-only recovery and navigation stop",
+    "Android/Windows products UI; 360/1280px card reposition/removal and nonblocking toast",
+    "Live SQL verification of all four sort orders, cursor pages and archive isolation",
+    "Packaged shared assets and archive integrity"
+  ],
+  "versionCode": 170,
+  "certificate_sha256": "ee7ac6dcdb06a55003fd21b500780749bc589c3f10ed6b1e2cba586ae4f178a7"
+}
