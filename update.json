@@ -1,0 +1,16 @@
+{
+  "version": "0.1.150",
+  "source_commit": "3f0669636bd94f0433bc16e7317118cbc35b9b4b",
+  "sha256": "11701cee7c68eebff8b3e55a20c69901524ba0c2066dd03b35189ca9a8160b10",
+  "size": 5831609,
+  "download_url": "https://raw.githubusercontent.com/gross0509/web-sales-updates/refs/heads/download/android-0.1.150/Web-Sales-Android-0.1.150.apk",
+  "checks": [
+    "145 Node tests, price-write failure simulations and connection retry checks",
+    "Live SQL regression with lagging acquiring; 1% of calculated price; net target and upward rounding",
+    "360/1280px price controls, immediate card refresh and next position under a live notification",
+    "Live SQL verification of all four sort orders, cursor pages and archive isolation",
+    "Packaged shared assets and archive integrity"
+  ],
+  "versionCode": 168,
+  "certificate_sha256": "ee7ac6dcdb06a55003fd21b500780749bc589c3f10ed6b1e2cba586ae4f178a7"
+}
