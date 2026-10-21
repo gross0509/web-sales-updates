@@ -1,0 +1,14 @@
+{
+  "version": "0.1.88",
+  "source_commit": "f32bba1ca0a58a94882ba25aec299d404095c149",
+  "sha256": "9ffbc9853b6bad386d4753cf49aac57ff84e98906c4f0deb243e0b290313a388",
+  "size": 94720185,
+  "download_url": "https://raw.githubusercontent.com/gross0509/web-sales-updates/refs/heads/download/windows-0.1.88/Web-Sales-0.1.88-x64-portable.exe",
+  "checks": [
+    "140 baseline Node tests plus photo-enrichment batch/failure checks",
+    "Products UI on Windows and Android; bounded load journal and photo lifecycle",
+    "360/393/1280px stock cards and infinite scroll",
+    "Live SQL verification of all four sort orders, cursor pages and archive isolation",
+    "Packaged shared assets and archive integrity"
+  ]
+}
