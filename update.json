@@ -1,0 +1,14 @@
+{
+  "version": "0.1.86",
+  "source_commit": "ff0fdfff3ac58f1724bb6a18a21b0a34bd44433d",
+  "sha256": "3a6bf25fbfec0eebfed1158bc8c5dc898c222139a28bade401db39e0753833c4",
+  "size": 94722232,
+  "download_url": "https://raw.githubusercontent.com/gross0509/web-sales-updates/refs/heads/download/windows-0.1.86/Web-Sales-0.1.86-x64-portable.exe",
+  "checks": [
+    "140 Node tests",
+    "Products UI on Windows and Android",
+    "360/393/1280px stock cards and infinite scroll",
+    "Live authenticated HTTPS export and non-overlapping database pages",
+    "Packaged shared assets and archive integrity"
+  ]
+}
