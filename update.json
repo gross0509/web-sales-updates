@@ -1,0 +1,16 @@
+{
+  "version": "0.1.146",
+  "source_commit": "ff0fdfff3ac58f1724bb6a18a21b0a34bd44433d",
+  "sha256": "c53b71339638dbcd077545f52869833376dab00debf11135de0e94dac5119ad0",
+  "size": 5826089,
+  "download_url": "https://raw.githubusercontent.com/gross0509/web-sales-updates/refs/heads/download/android-0.1.146/Web-Sales-Android-0.1.146.apk",
+  "checks": [
+    "140 Node tests",
+    "Products UI on Windows and Android",
+    "360/393/1280px stock cards and infinite scroll",
+    "Live authenticated HTTPS export and non-overlapping database pages",
+    "Packaged shared assets and archive integrity"
+  ],
+  "versionCode": 164,
+  "certificate_sha256": "ee7ac6dcdb06a55003fd21b500780749bc589c3f10ed6b1e2cba586ae4f178a7"
+}
