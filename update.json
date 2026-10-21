@@ -1,0 +1,16 @@
+{
+  "version": "0.1.151",
+  "source_commit": "4a1403c01d52937fd2dc1e5ab903a5fbb185ce48",
+  "sha256": "c56e79555e9d20fbd1bda0e1bcae71d36481aa83b4495948ca6270b1d138717f",
+  "size": 5831845,
+  "download_url": "https://raw.githubusercontent.com/gross0509/web-sales-updates/refs/heads/download/android-0.1.151/Web-Sales-Android-0.1.151.apk",
+  "checks": [
+    "145 Node tests, price-write failure simulations and connection retry checks",
+    "Live SQL default absolute difference sort, first 100 products, numeric cursors and unchanged date sorts",
+    "Android/Windows products UI; 360/1280px card reposition/removal and nonblocking toast",
+    "Live SQL verification of all four sort orders, cursor pages and archive isolation",
+    "Packaged shared assets and archive integrity"
+  ],
+  "versionCode": 169,
+  "certificate_sha256": "ee7ac6dcdb06a55003fd21b500780749bc589c3f10ed6b1e2cba586ae4f178a7"
+}
