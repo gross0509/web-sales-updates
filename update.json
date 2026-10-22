@@ -1,0 +1,16 @@
+{
+  "version": "0.1.154",
+  "source_commit": "188932af4ee767a6c6f53913a4d6e04d8a3fd639",
+  "sha256": "ccc9aa12e78b002ab325af3a1d74a0f432b942ea874cf159199d0376e0b4f107",
+  "size": 5833369,
+  "download_url": "https://raw.githubusercontent.com/gross0509/web-sales-updates/refs/heads/download/android-0.1.154/Web-Sales-Android-0.1.154.apk",
+  "checks": [
+    "155 Node tests, price-write failure simulations and connection retry checks",
+    "Global queue, 500+500+250 packets, complete tab redraw, partial errors and read-only recovery",
+    "Android/Windows products UI; 360/1280px card reposition/removal and nonblocking toast",
+    "Exact +19% old price with upward rounding, three-field completion and pending read-only recovery",
+    "Packaged shared assets and archive integrity"
+  ],
+  "versionCode": 172,
+  "certificate_sha256": "ee7ac6dcdb06a55003fd21b500780749bc589c3f10ed6b1e2cba586ae4f178a7"
+}
