@@ -1,0 +1,15 @@
+{
+  "version": "0.1.89",
+  "source_commit": "273bced9088575ac14f2caecce622e470920b762",
+  "sha256": "97e191d2899504c5dc9f9a06cee1484df817b33e2fae8701aed69a2ead2cbe5d",
+  "size": 94726383,
+  "download_url": "https://raw.githubusercontent.com/gross0509/web-sales-updates/refs/heads/download/windows-0.1.89/Web-Sales-0.1.89-x64-portable.exe",
+  "checks": [
+    "155 Node tests passed",
+    "Optional/multiple packaging and empty attention tab at 320/360/393/1280px",
+    "Batch queue, 500+500+250 writes, partial errors and read-only recovery",
+    "Single-price controls, live toast and whole-tab fallback",
+    "Live SQL packaging values, counts and restricted column privileges",
+    "Packaged assets, original Android certificate and archive integrity"
+  ]
+}
