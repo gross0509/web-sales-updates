@@ -1,0 +1,15 @@
+{
+  "version": "0.1.158",
+  "source_commit": "e71c25fdbe637db23db0f0f974fc663da8864c62",
+  "sha256": "48d48dd38215ec8cbcb80eb0819f4092df678c18a358b0798a4c39c5b9541d33",
+  "size": 5838449,
+  "download_url": "https://raw.githubusercontent.com/gross0509/web-sales-updates/refs/heads/download/android-0.1.158/Web-Sales-Android-0.1.158.apk",
+  "checks": [
+    "Order positions: three-row layout and exact offer copy on both platforms at 288/320/393/700px",
+    "Lazy per-product price modal: no prefetch, stale response isolation, retry, archive, zero/null and update refresh at 288/393/1280px",
+    "Product pages and individual/batch price controls passed",
+    "Original Android certificate, APK identity and packaged shared assets verified"
+  ],
+  "versionCode": 176,
+  "certificate_sha256": "ee7ac6dcdb06a55003fd21b500780749bc589c3f10ed6b1e2cba586ae4f178a7"
+}
