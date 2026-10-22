@@ -1,0 +1,18 @@
+{
+  "version": "0.1.156",
+  "source_commit": "668de6e3fcfde101d0472699a4a7cd079292bd81",
+  "sha256": "541f2356dba228340034fc6316f68cf4b262b7b7c1e0303bb8edf4ddc8b5cc0b",
+  "size": 5837169,
+  "download_url": "https://raw.githubusercontent.com/gross0509/web-sales-updates/refs/heads/download/android-0.1.156/Web-Sales-Android-0.1.156.apk",
+  "checks": [
+    "158 Node tests passed",
+    "Shared UI smoke on Windows and Android",
+    "Packaging types and compact footer at 320/360/393/1280px",
+    "50 actual photo loads with concurrency four; timeout/retry/cancellation and deduplication",
+    "Native HTTPS metadata: cached-token no-JDBC, bootstrap, 500+1 packets and atomic error handling",
+    "Live private metadata HTTP200; SQL execution grants and invalid token rejection",
+    "Short/long toast 3/6 seconds; original Android certificate and packaged asset integrity"
+  ],
+  "versionCode": 174,
+  "certificate_sha256": "ee7ac6dcdb06a55003fd21b500780749bc589c3f10ed6b1e2cba586ae4f178a7"
+}
