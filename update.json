@@ -1,0 +1,16 @@
+{
+  "version": "0.1.157",
+  "source_commit": "4b3475e80108d46e8ff33c94c31c2c9d80fc1dcf",
+  "sha256": "430dac4ab109912832fd9245310cce7bd5b70fda8e56972d4d77f9cbbf0d74f0",
+  "size": 5837169,
+  "download_url": "https://raw.githubusercontent.com/gross0509/web-sales-updates/refs/heads/download/android-0.1.157/Web-Sales-Android-0.1.157.apk",
+  "checks": [
+    "163 Node tests passed",
+    "Shared UI smoke on Windows and Android",
+    "Original Android certificate and packaged asset integrity",
+    "Windows embedded ASAR verified",
+    "Shared price backend v5: stored net_price and mandatory promotion controls"
+  ],
+  "versionCode": 175,
+  "certificate_sha256": "ee7ac6dcdb06a55003fd21b500780749bc589c3f10ed6b1e2cba586ae4f178a7"
+}
