@@ -1,0 +1,14 @@
+{
+  "version": "0.1.160",
+  "source_commit": "649284a33dd3441af057c420d1188b91eb366716",
+  "sha256": "7b1a40f03f1c6a487132c090d4c76eea2c17fa1c0752d5f1a36501d4327f701d",
+  "size": 5839509,
+  "download_url": "https://raw.githubusercontent.com/gross0509/web-sales-updates/refs/heads/download/android-0.1.160/Web-Sales-Android-0.1.160.apk",
+  "checks": [
+    "Shared 1C SVG used across cards and tables; product stock heading remains plain text 1С",
+    "User-selected outlined Ozon SVG available as a shared component",
+    "Original Android certificate, APK identity and packaged shared assets verified"
+  ],
+  "versionCode": 178,
+  "certificate_sha256": "ee7ac6dcdb06a55003fd21b500780749bc589c3f10ed6b1e2cba586ae4f178a7"
+}
