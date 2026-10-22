@@ -1,0 +1,16 @@
+{
+  "version": "0.1.90",
+  "source_commit": "668de6e3fcfde101d0472699a4a7cd079292bd81",
+  "sha256": "3ed2defb2d507f123bfbbe581b6c7d031e80918fd56dfd4b43010e9cc128c9d5",
+  "size": 94727657,
+  "download_url": "https://raw.githubusercontent.com/gross0509/web-sales-updates/refs/heads/download/windows-0.1.90/Web-Sales-0.1.90-x64-portable.exe",
+  "checks": [
+    "158 Node tests passed",
+    "Shared UI smoke on Windows and Android",
+    "Packaging types and compact footer at 320/360/393/1280px",
+    "50 actual photo loads with concurrency four; timeout/retry/cancellation and deduplication",
+    "Native HTTPS metadata: cached-token no-JDBC, bootstrap, 500+1 packets and atomic error handling",
+    "Live private metadata HTTP200; SQL execution grants and invalid token rejection",
+    "Short/long toast 3/6 seconds; original Android certificate and packaged asset integrity"
+  ]
+}
