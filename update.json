@@ -1,0 +1,14 @@
+{
+  "version": "0.1.91",
+  "source_commit": "0a6c76e8507c32bd962dc07186ce6f500e4cfcbf",
+  "sha256": "279c82636b4481d2d870e4f96b5d19ec294d9fa27c4c8abef88d221767103079",
+  "size": 98209753,
+  "download_url": "https://raw.githubusercontent.com/gross0509/web-sales-updates/refs/heads/download/windows-0.1.91/Web-Sales-0.1.91-x64-portable.exe",
+  "checks": [
+    "163 Node tests passed",
+    "Shared UI smoke on Windows and Android",
+    "Original Android certificate and packaged asset integrity",
+    "Windows embedded ASAR verified",
+    "Shared price backend v5: stored net_price and mandatory promotion controls"
+  ]
+}
