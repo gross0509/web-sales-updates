@@ -1,0 +1,17 @@
+{
+  "version": "0.1.155",
+  "source_commit": "273bced9088575ac14f2caecce622e470920b762",
+  "sha256": "d469fdd4413262c03f3b4addbbcf3bbc60ca7769760fec0b86d18f2e7ffdf44e",
+  "size": 5834073,
+  "download_url": "https://raw.githubusercontent.com/gross0509/web-sales-updates/refs/heads/download/android-0.1.155/Web-Sales-Android-0.1.155.apk",
+  "checks": [
+    "155 Node tests passed",
+    "Optional/multiple packaging and empty attention tab at 320/360/393/1280px",
+    "Batch queue, 500+500+250 writes, partial errors and read-only recovery",
+    "Single-price controls, live toast and whole-tab fallback",
+    "Live SQL packaging values, counts and restricted column privileges",
+    "Packaged assets, original Android certificate and archive integrity"
+  ],
+  "versionCode": 173,
+  "certificate_sha256": "ee7ac6dcdb06a55003fd21b500780749bc589c3f10ed6b1e2cba586ae4f178a7"
+}
