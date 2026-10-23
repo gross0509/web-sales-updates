@@ -1,0 +1,15 @@
+{
+  "version": "0.1.167",
+  "source_commit": "886ec77aaa7f1f61267fcbdd66bcd76b22ac59a6",
+  "sha256": "9f3db560e513a9a5f6efd83404e5d0f70e77164371ebbed1d98c221dec3e6d39",
+  "size": 5845389,
+  "download_url": "https://raw.githubusercontent.com/gross0509/web-sales-updates/refs/heads/download/android-0.1.167/Web-Sales-Android-0.1.167.apk",
+  "checks": [
+    "Saved HTTPS export credential bypasses JDBC for products and returns; native offline database harness passed",
+    "Actual Android manifest validator tested on host for URLs, metadata, redirects and version decisions",
+    "Channel publisher rejects downgrade and same-version replacement",
+    "Original Android certificate, APK manifest, ZIP and packaged assets verified"
+  ],
+  "versionCode": 185,
+  "certificate_sha256": "ee7ac6dcdb06a55003fd21b500780749bc589c3f10ed6b1e2cba586ae4f178a7"
+}
