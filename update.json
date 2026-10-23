@@ -1,0 +1,15 @@
+{
+  "version": "0.1.163",
+  "source_commit": "42d4e101f44d8b115db226f2bbe53a3aca7f361b",
+  "sha256": "201f0b51cbdb1bb674c7aaf512a699a1daf80864132c607fb9c2b7bde5cded59",
+  "size": 5843929,
+  "download_url": "https://raw.githubusercontent.com/gross0509/web-sales-updates/refs/heads/download/android-0.1.163/Web-Sales-Android-0.1.163.apk",
+  "checks": [
+    "Two dependent type/packaging dropdowns with courier default",
+    "Existing packaging edits preselect clicked association; preserve other links and reject stale writes",
+    "Add/edit UI at 288/393/1280px, SQL rollback tests and transport tests passed",
+    "Original Android certificate, APK manifest, ZIP and packaged shared assets verified"
+  ],
+  "versionCode": 181,
+  "certificate_sha256": "ee7ac6dcdb06a55003fd21b500780749bc589c3f10ed6b1e2cba586ae4f178a7"
+}
