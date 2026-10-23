@@ -1,0 +1,15 @@
+{
+  "version": "0.1.169",
+  "source_commit": "cb46abd80bcea6b74d3916b9c7a1785d2d27d450",
+  "sha256": "77a2866b583e0b4aad85dbc657fcbdbdbc32d4f4042bf2a64dc260b9864da63a",
+  "size": 5847881,
+  "download_url": "https://raw.githubusercontent.com/gross0509/web-sales-updates/refs/heads/download/android-0.1.169/Web-Sales-Android-0.1.169.apk",
+  "checks": [
+    "Lazy delivering/delivered/all order tabs, 25-item infinite scroll, postal label search and updated-date sorting included",
+    "Actual Android manifest validator tested on host for URLs, metadata, redirects and version decisions",
+    "Channel publisher rejects downgrade and same-version replacement",
+    "Original Android certificate, APK manifest, ZIP and packaged assets verified"
+  ],
+  "versionCode": 187,
+  "certificate_sha256": "ee7ac6dcdb06a55003fd21b500780749bc589c3f10ed6b1e2cba586ae4f178a7"
+}
