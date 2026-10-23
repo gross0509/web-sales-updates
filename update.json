@@ -1,0 +1,15 @@
+{
+  "version": "0.1.161",
+  "source_commit": "99cb26e896138888effdd622c3d1a4e079050df3",
+  "sha256": "2449a832e32d21b0209720cc01d532462b2a9c36bb937c57e5814eabd80e06f2",
+  "size": 5839673,
+  "download_url": "https://raw.githubusercontent.com/gross0509/web-sales-updates/refs/heads/download/android-0.1.161/Web-Sales-Android-0.1.161.apk",
+  "checks": [
+    "Ozon icon before offer IDs in orders and product headers; copy remains adjacent",
+    "Shared 1C SVG with plain stock heading; muted quantum and pack-count icons",
+    "Previous order rows and lazy price modal included on both platforms",
+    "Archive identity, packaged assets and public download verified"
+  ],
+  "versionCode": 179,
+  "certificate_sha256": "ee7ac6dcdb06a55003fd21b500780749bc589c3f10ed6b1e2cba586ae4f178a7"
+}
