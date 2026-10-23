@@ -1,0 +1,12 @@
+{
+  "version": "0.1.95",
+  "source_commit": "cb46abd80bcea6b74d3916b9c7a1785d2d27d450",
+  "sha256": "68ff13db91e3912483c50cf0d86edce2a06099e8ed60c80f44670ff154893dd4",
+  "size": 87179119,
+  "download_url": "https://raw.githubusercontent.com/gross0509/web-sales-updates/refs/heads/download/windows-0.1.95/Web-Sales-0.1.95-x64-portable.exe",
+  "checks": [
+    "Orders section renamed and complete database-backed history tabs included",
+    "History, total badge, paging, search, assembly preservation and narrow layouts verified",
+    "Embedded ASAR and portable archive integrity verified against source"
+  ]
+}
