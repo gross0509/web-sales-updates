@@ -1,0 +1,12 @@
+{
+  "version": "0.1.94",
+  "source_commit": "4f46b923910f6198823d7c214b6599a80e47c2b0",
+  "sha256": "132cd2ed16704b3ad43123939c97532857f4372a8e1226cca3e6ad51bc32dd6c",
+  "size": 98217913,
+  "download_url": "https://raw.githubusercontent.com/gross0509/web-sales-updates/refs/heads/download/windows-0.1.94/Web-Sales-0.1.94-x64-portable.exe",
+  "checks": [
+    "Shared product-footer packaging editor, Ozon article glyphs and latest shared UI included",
+    "Packaging add/edit, lost response recovery and narrow layouts verified",
+    "Embedded ASAR and portable archive integrity verified against source"
+  ]
+}
