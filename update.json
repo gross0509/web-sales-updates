@@ -1,0 +1,15 @@
+{
+  "version": "0.1.165",
+  "source_commit": "9f2538f5f53341cc78cfcffa329bab8c5d65cd50",
+  "sha256": "e463f76617b3e2fb5b81c0c5033a978e416caa19f7a25af8c0d9665f2b149591",
+  "size": 5844405,
+  "download_url": "https://raw.githubusercontent.com/gross0509/web-sales-updates/refs/heads/download/android-0.1.165/Web-Sales-Android-0.1.165.apk",
+  "checks": [
+    "Square shared icons and dual Ozon/1C icons for matching order IDs; product article icons verified",
+    "Actual Android manifest validator tested on host for URLs, metadata, redirects and version decisions",
+    "Channel publisher rejects downgrade and same-version replacement",
+    "Original Android certificate, APK manifest, ZIP and packaged assets verified"
+  ],
+  "versionCode": 183,
+  "certificate_sha256": "ee7ac6dcdb06a55003fd21b500780749bc589c3f10ed6b1e2cba586ae4f178a7"
+}
