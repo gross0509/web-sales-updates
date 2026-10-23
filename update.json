@@ -1,0 +1,15 @@
+{
+  "version": "0.1.171",
+  "source_commit": "be74774c482cec9fbff7fef6238a5f6807337be7",
+  "sha256": "ded0b48554ac92230dc61b2819640819f1bfe0853678795b992c7bad272ee596",
+  "size": 5867998,
+  "download_url": "https://raw.githubusercontent.com/gross0509/web-sales-updates/refs/heads/download/android-0.1.171/Web-Sales-Android-0.1.171.apk",
+  "checks": [
+    "Seven local SVG brand logos, persistent brand-logos folder and shared logo-or-chip rendering in all product/order/return views included",
+    "Actual Android manifest validator tested on host for URLs, metadata, redirects and version decisions",
+    "Channel publisher rejects downgrade and same-version replacement",
+    "Original Android certificate, APK manifest, ZIP and packaged assets verified"
+  ],
+  "versionCode": 189,
+  "certificate_sha256": "ee7ac6dcdb06a55003fd21b500780749bc589c3f10ed6b1e2cba586ae4f178a7"
+}
