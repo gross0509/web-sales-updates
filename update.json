@@ -1,0 +1,12 @@
+{
+  "version": "0.1.93",
+  "source_commit": "9f2538f5f53341cc78cfcffa329bab8c5d65cd50",
+  "sha256": "f8f2b04188beba59ad26af9dbf8c210922019666c529925c06bb91f8073efd7f",
+  "size": 98216919,
+  "download_url": "https://raw.githubusercontent.com/gross0509/web-sales-updates/refs/heads/download/windows-0.1.93/Web-Sales-0.1.93-x64-portable.exe",
+  "checks": [
+    "Square icons and dual matching article icons included",
+    "Packaging add/edit and dependent selectors included",
+    "Embedded ASAR and portable archive integrity verified against source"
+  ]
+}
