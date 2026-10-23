@@ -1,0 +1,15 @@
+{
+  "version": "0.1.164",
+  "source_commit": "c732cd4588fba0d5b1b80356aee8804f8d1e8934",
+  "sha256": "8dc9b83979caba8f115d34f287d2f622b9289e75b0b8eb58067e53b7df4e2317",
+  "size": 5844293,
+  "download_url": "https://raw.githubusercontent.com/gross0509/web-sales-updates/refs/heads/download/android-0.1.164/Web-Sales-Android-0.1.164.apk",
+  "checks": [
+    "Stable raw Android channel; startup/manual update checks retained",
+    "Actual Android manifest validator tested on host for URLs, metadata, redirects and version decisions",
+    "Channel publisher rejects downgrade and same-version replacement",
+    "Original Android certificate, APK manifest, ZIP and packaged assets verified"
+  ],
+  "versionCode": 182,
+  "certificate_sha256": "ee7ac6dcdb06a55003fd21b500780749bc589c3f10ed6b1e2cba586ae4f178a7"
+}
