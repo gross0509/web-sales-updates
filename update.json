@@ -1,0 +1,13 @@
+{
+  "version": "0.1.92",
+  "source_commit": "99cb26e896138888effdd622c3d1a4e079050df3",
+  "sha256": "2875d5e3b476395bd797aacc6fcae36701617b78b4c40351967d9e03582d6b68",
+  "size": 98214235,
+  "download_url": "https://raw.githubusercontent.com/gross0509/web-sales-updates/refs/heads/download/windows-0.1.92/Web-Sales-0.1.92-x64-portable.exe",
+  "checks": [
+    "Ozon icon before offer IDs in orders and product headers; copy remains adjacent",
+    "Shared 1C SVG with plain stock heading; muted quantum and pack-count icons",
+    "Previous order rows and lazy price modal included on both platforms",
+    "Archive identity, packaged assets and public download verified"
+  ]
+}
