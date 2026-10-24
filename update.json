@@ -1,0 +1,15 @@
+{
+  "version": "0.1.173",
+  "source_commit": "65445530cdfc925368cdc47c11220134dc4a4fde",
+  "sha256": "d4a61a7d538df6c2e0e67d4d4ef7f59e2cf51aaeb6d7239ae25017dd5ce1f6c7",
+  "size": 5875400,
+  "download_url": "https://raw.githubusercontent.com/gross0509/web-sales-updates/refs/heads/download/android-0.1.173/Web-Sales-Android-0.1.173.apk",
+  "checks": [
+    "Android assembly products tab, status event timestamps and All-tab status badges, compact toolbar with right-aligned search",
+    "Actual Android manifest validator tested on host for URLs, metadata, redirects and version decisions",
+    "Channel publisher rejects downgrade and same-version replacement",
+    "Original Android certificate, APK manifest, ZIP and packaged assets verified"
+  ],
+  "versionCode": 191,
+  "certificate_sha256": "ee7ac6dcdb06a55003fd21b500780749bc589c3f10ed6b1e2cba586ae4f178a7"
+}
