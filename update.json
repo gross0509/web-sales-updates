@@ -1,0 +1,12 @@
+{
+  "version": "0.1.96",
+  "source_commit": "556653caed937b29d228887a3583d75140318686",
+  "sha256": "be71c28b4352eca6bd9f8530b3a1a66d1157fc1f63f167403b64326ede9f1dc4",
+  "size": 87196201,
+  "download_url": "https://raw.githubusercontent.com/gross0509/web-sales-updates/refs/heads/download/windows-0.1.96/Web-Sales-0.1.96-x64-portable.exe",
+  "checks": [
+    "Shared server expense calculation including cancellation forecast; active Ozon snapshots and history totals; negative net highlighting and label search",
+    "History, total badge, paging, search, assembly preservation and narrow layouts verified",
+    "Embedded ASAR and portable archive integrity verified against source"
+  ]
+}
