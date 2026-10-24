@@ -1,0 +1,15 @@
+{
+  "version": "0.1.172",
+  "source_commit": "c1a27a78029c8d40baeb401c076fd0c982a12d32",
+  "sha256": "87376eaa2d970974323af1f79a444a10a0ab9193ba277281586525e19bf61d8d",
+  "size": 5868262,
+  "download_url": "https://raw.githubusercontent.com/gross0509/web-sales-updates/refs/heads/download/android-0.1.172/Web-Sales-Android-0.1.172.apk",
+  "checks": [
+    "Unified order status styling: delivering info, delivered success, muted headers and outlines without fading products",
+    "Actual Android manifest validator tested on host for URLs, metadata, redirects and version decisions",
+    "Channel publisher rejects downgrade and same-version replacement",
+    "Original Android certificate, APK manifest, ZIP and packaged assets verified"
+  ],
+  "versionCode": 190,
+  "certificate_sha256": "ee7ac6dcdb06a55003fd21b500780749bc589c3f10ed6b1e2cba586ae4f178a7"
+}
