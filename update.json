@@ -1,0 +1,15 @@
+{
+  "version": "0.1.176",
+  "source_commit": "556653caed937b29d228887a3583d75140318686",
+  "sha256": "9bcc8e1137310590c9b6e3ddee90d62d758f695938d318e398804024d3429201",
+  "size": 5877320,
+  "download_url": "https://raw.githubusercontent.com/gross0509/web-sales-updates/refs/heads/download/android-0.1.176/Web-Sales-Android-0.1.176.apk",
+  "checks": [
+    "Shared server expense calculation including predicted cancellations for active and historical orders; no duplicate client formula; negative proceeds highlighted; label barcode removed from footer, search retained",
+    "Actual Android manifest validator tested on host for URLs, metadata, redirects and version decisions",
+    "Channel publisher rejects downgrade and same-version replacement",
+    "Original Android certificate, APK manifest, ZIP and packaged assets verified"
+  ],
+  "versionCode": 194,
+  "certificate_sha256": "ee7ac6dcdb06a55003fd21b500780749bc589c3f10ed6b1e2cba586ae4f178a7"
+}
