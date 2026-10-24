@@ -1,0 +1,15 @@
+{
+  "version": "0.1.174",
+  "source_commit": "fc3de4f6020636df52bbb447410b991bcbdf06de",
+  "sha256": "677e03acb5231822c453cd82e26078ac62e35823c5fd85e7b0ab11782dd04135",
+  "size": 5876880,
+  "download_url": "https://raw.githubusercontent.com/gross0509/web-sales-updates/refs/heads/download/android-0.1.174/Web-Sales-Android-0.1.174.apk",
+  "checks": [
+    "Order footer in every tab: buyer payment, Ozon total and estimated FBS proceeds; label barcode only in history; nearest-ten totals and foreign currency codes",
+    "Actual Android manifest validator tested on host for URLs, metadata, redirects and version decisions",
+    "Channel publisher rejects downgrade and same-version replacement",
+    "Original Android certificate, APK manifest, ZIP and packaged assets verified"
+  ],
+  "versionCode": 192,
+  "certificate_sha256": "ee7ac6dcdb06a55003fd21b500780749bc589c3f10ed6b1e2cba586ae4f178a7"
+}
