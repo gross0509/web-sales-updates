@@ -1,0 +1,9 @@
+{
+  "version": "0.1.185",
+  "versionCode": 203,
+  "size": 5959677,
+  "sha256": "21bb368cd8f70c249a3140749e6e74652a82a1d19e41af07eaab5adfa9387f6b",
+  "certificate_sha256": "ee7ac6dcdb06a55003fd21b500780749bc589c3f10ed6b1e2cba586ae4f178a7",
+  "source_commit": "3567b6da248f341f252502a44e6de26b510f0c05",
+  "download_url": "https://raw.githubusercontent.com/gross0509/web-sales-updates/refs/heads/download/android-0.1.185/Web-Sales-Android-0.1.185.apk"
+}
