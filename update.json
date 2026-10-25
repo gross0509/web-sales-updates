@@ -1,0 +1,13 @@
+{
+  "version": "0.1.183",
+  "versionCode": 201,
+  "artifact": "/workspace/artifacts/Web-Sales-Android-0.1.183.apk",
+  "size": 5961233,
+  "sha256": "1beb9d577136529726bf3625a05551a2e443930429af20ec99a34fb4a8e25017",
+  "certificate_sha256": "ee7ac6dcdb06a55003fd21b500780749bc589c3f10ed6b1e2cba586ae4f178a7",
+  "source_commit": "c09937b22cc9195c19d0834d6836e02bcc26ecfa",
+  "signed_apk_verified": true,
+  "packaged_assets_match_source": true,
+  "public_download_verified": false,
+  "download_url": "https://raw.githubusercontent.com/gross0509/web-sales-updates/refs/heads/download/android-0.1.183/Web-Sales-Android-0.1.183.apk"
+}
