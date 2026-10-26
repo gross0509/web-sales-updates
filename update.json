@@ -1,0 +1,9 @@
+{
+  "version": "0.1.192",
+  "versionCode": 210,
+  "size": 5960089,
+  "sha256": "5ac0e0a50910fdd34cb40c401861cbfa5aad52b4d03d62f2b763363642296f06",
+  "certificate_sha256": "ee7ac6dcdb06a55003fd21b500780749bc589c3f10ed6b1e2cba586ae4f178a7",
+  "source_commit": "faa5bb84443b66169987c88b9ab1de675b42b59d",
+  "download_url": "https://raw.githubusercontent.com/gross0509/web-sales-updates/refs/heads/download/android-0.1.192/Web-Sales-Android-0.1.192.apk"
+}
