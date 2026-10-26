@@ -1,0 +1,15 @@
+{
+  "version": "0.1.194",
+  "versionCode": 212,
+  "size": 5967416,
+  "sha256": "2281c61a0fa1335fb19228999be1915a57007ba0b8810efcb5d5c71ab354a1b2",
+  "certificate_sha256": "ee7ac6dcdb06a55003fd21b500780749bc589c3f10ed6b1e2cba586ae4f178a7",
+  "source_commit": "16b9a22dfdb9e29a84b69c7e08c0b083d957058d",
+  "download_url": "https://raw.githubusercontent.com/gross0509/web-sales-updates/refs/heads/download/android-0.1.194/Web-Sales-Android-0.1.194.apk",
+  "artifact": "/workspace/artifacts/Web-Sales-Android-0.1.194.apk",
+  "signed_apk_verified": true,
+  "packaged_assets_match_source": true,
+  "public_download_verified": false,
+  "publication_status": "built",
+  "verified_at_utc": "2026-10-26T04:57:09.342341+00:00"
+}
