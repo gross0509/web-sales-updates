@@ -1,0 +1,12 @@
+{
+  "version": "0.1.195",
+  "versionCode": 213,
+  "size": 5968112,
+  "sha256": "f40c5ed064666ed05c35bc4a4224e8ff245cbd794e2420989f75c6e9c89ea922",
+  "certificate_sha256": "ee7ac6dcdb06a55003fd21b500780749bc589c3f10ed6b1e2cba586ae4f178a7",
+  "source_commit": "c5ecb7dbec41c1b7cd499c9b795a401a073ea56a",
+  "download_url": "https://raw.githubusercontent.com/gross0509/web-sales-updates/refs/heads/download/android-0.1.195/Web-Sales-Android-0.1.195.apk",
+  "signed_apk_verified": true,
+  "packaged_assets_match_source": true,
+  "verified_at_utc": "2026-10-27T18:11:23.250328+00:00"
+}
