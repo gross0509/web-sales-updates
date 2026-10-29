@@ -1,12 +1,12 @@
-version: 0.1.100
+version: 0.1.101
 files:
   - url: >-
-      https://raw.githubusercontent.com/gross0509/web-sales-updates/refs/heads/download/windows-installed-0.1.100/Web-Sales-0.1.100-x64-Setup.exe
+      https://raw.githubusercontent.com/gross0509/web-sales-updates/refs/heads/download/windows-installed-0.1.101/Web-Sales-0.1.101-x64-Setup.exe
     sha512: >-
-      DF38nNoyrk9J1czjrHy4qouhbzftneJA5bERVmygwpp2ER0+wucJiscWOr7GNagkLT9TPuSpGYPRh/eu/aeSMw==
-    size: 98134969
+      aVyHPzTS6n7HMRSt4RE+K4OE70z4vYShmKSBxD22vWVhDUgjUsTL8Ykc/PONcZgXx4hxZYCoPicV9Ya+y2JfUQ==
+    size: 98135232
 path: >-
-  https://raw.githubusercontent.com/gross0509/web-sales-updates/refs/heads/download/windows-installed-0.1.100/Web-Sales-0.1.100-x64-Setup.exe
+  https://raw.githubusercontent.com/gross0509/web-sales-updates/refs/heads/download/windows-installed-0.1.101/Web-Sales-0.1.101-x64-Setup.exe
 sha512: >-
-  DF38nNoyrk9J1czjrHy4qouhbzftneJA5bERVmygwpp2ER0+wucJiscWOr7GNagkLT9TPuSpGYPRh/eu/aeSMw==
-releaseDate: '2026-10-29T07:36:07.084Z'
+  aVyHPzTS6n7HMRSt4RE+K4OE70z4vYShmKSBxD22vWVhDUgjUsTL8Ykc/PONcZgXx4hxZYCoPicV9Ya+y2JfUQ==
+releaseDate: '2026-10-29T08:55:29.813Z'
