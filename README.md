@@ -1,0 +1,5 @@
+# Web Sales android 0.1.199
+
+Source: 7577b8ff555bf3e82e85f3835f72e96bddde2ac5
+
+SHA-256: 01a4244d4fea642c433b2b01107403236dab5f3b77dbd1bf2c50b0f849bd71d6
