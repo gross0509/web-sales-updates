@@ -1,0 +1,2 @@
+Web Sales Windows installer 0.1.102
+SHA-256: 2aea163a6b614d1fb48973f3f87f3b03d30bd6b052d20d9763e8f13faf728ca9
