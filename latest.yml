@@ -1,12 +1,12 @@
-version: 0.1.104
+version: 0.1.105
 files:
   - url: >-
-      https://raw.githubusercontent.com/gross0509/web-sales-updates/refs/heads/download/windows-installed-0.1.104/Web-Sales-0.1.104-x64-Setup.exe
+      https://raw.githubusercontent.com/gross0509/web-sales-updates/refs/heads/download/windows-installed-0.1.105/Web-Sales-0.1.105-x64-Setup.exe
     sha512: >-
-      7Yg0wWMtGZI/IHAPIfZ2euRmAnFzXIIaCIDFd5He8Z87OR+vVgkX9QchavWd5KAako14CYmxrLWwArot3VJnUQ==
-    size: 98165377
+      J5+LzeFhBWgL+nwObrzklOR10Mw3lTt41AaribEkNr40HpzZQ3soxtvCoJ6V5exXXIvgXcbVhRCTaSqSwmZUOA==
+    size: 98175430
 path: >-
-  https://raw.githubusercontent.com/gross0509/web-sales-updates/refs/heads/download/windows-installed-0.1.104/Web-Sales-0.1.104-x64-Setup.exe
+  https://raw.githubusercontent.com/gross0509/web-sales-updates/refs/heads/download/windows-installed-0.1.105/Web-Sales-0.1.105-x64-Setup.exe
 sha512: >-
-  7Yg0wWMtGZI/IHAPIfZ2euRmAnFzXIIaCIDFd5He8Z87OR+vVgkX9QchavWd5KAako14CYmxrLWwArot3VJnUQ==
-releaseDate: '2026-11-03T05:54:13.849Z'
+  J5+LzeFhBWgL+nwObrzklOR10Mw3lTt41AaribEkNr40HpzZQ3soxtvCoJ6V5exXXIvgXcbVhRCTaSqSwmZUOA==
+releaseDate: '2026-11-04T06:44:06.909Z'
