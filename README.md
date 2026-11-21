@@ -1,0 +1,2 @@
+Web Sales Android 0.1.217
+SHA-256: 5d57cd4e8f93720b73fb09fd6d266aed740ebd5dd1e1429d46979a4abe92882d
