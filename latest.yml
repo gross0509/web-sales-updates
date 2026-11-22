@@ -1,0 +1,12 @@
+version: 0.1.109
+files:
+  - url: >-
+      https://raw.githubusercontent.com/gross0509/web-sales-updates/refs/heads/download/windows-installed-0.1.109/Web-Sales-0.1.109-x64-Setup.exe
+    sha512: >-
+      Vr0P6WrHS95uTafFHUl5FLHscgKRcqgC8Oxk+p3S1kj6KWvG+a/IeKwWXp5mNZ2J5mIStUJgK9cCXCHdDDLUtw==
+    size: 98310338
+path: >-
+  https://raw.githubusercontent.com/gross0509/web-sales-updates/refs/heads/download/windows-installed-0.1.109/Web-Sales-0.1.109-x64-Setup.exe
+sha512: >-
+  Vr0P6WrHS95uTafFHUl5FLHscgKRcqgC8Oxk+p3S1kj6KWvG+a/IeKwWXp5mNZ2J5mIStUJgK9cCXCHdDDLUtw==
+releaseDate: '2026-11-22T03:21:20.778Z'
